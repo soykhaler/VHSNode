@@ -6,4 +6,5 @@ Addon for blender to add VHS effect in the compositing tab
 
 
 
-![alt text](https://github.com/soykhaler/VHSNode/blob/main/COMPARISON.png?raw=true)
+
+![alt text](https://github.com/soykhaler/VHSNode/blob/main/COMPARISON.PNG?raw=true)
